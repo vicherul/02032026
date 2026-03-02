@@ -1,0 +1,21 @@
+.plan-card {
+    border: 1px solid #ddd;
+    padding: 20px;
+    width: 200px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.outstanding {
+    border: 3px solid #6200ee;
+    box-shadow: 0px 10px 20px rgba(98, 0, 238, 0.2);
+    transform: scale(1.05);/* Un toque de tamaño extra*/
+}
+
+.label-popular {
+    background-color: #6200ee;
+    color: white;
+    padding: 2px 8px;
+    border-radius: 5px;
+    font-size: 0.7rem;
+}
